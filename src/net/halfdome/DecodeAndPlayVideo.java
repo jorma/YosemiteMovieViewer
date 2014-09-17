@@ -13,7 +13,7 @@ public class DecodeAndPlayVideo extends JPanel {
 		
 		
 		
-		String fileName = "/Users/jorma/Code/EclipseWS/YosMovieViewer/movies/gp_2012_04_24.mp4";
+		String fileName = "/Users/jorma/Code/EclipseWSpace/YosemiteMovieViewer/res/gp_2012_04_24.mp4";
 
 		if (fileName.length() <= 0)
 			throw new IllegalArgumentException(

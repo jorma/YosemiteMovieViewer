@@ -18,7 +18,7 @@ public class VideoPlayer
   
   public static void main(String[] args)
   {
-    String sourceUrl = "/Users/jorma/Code/EclipseWS/YosMovieViewer/movies/gp_2012_04_24.mp4";
+    String sourceUrl = "/Users/jorma/Code/EclipseWSpace/YosemiteMovieViewer/res/gp_2012_04_24.mp4";
     
     VideoPlayer videoPlayer = new VideoPlayer();
     videoPlayer.play(sourceUrl);
